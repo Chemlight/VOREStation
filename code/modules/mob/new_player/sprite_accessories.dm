@@ -928,8 +928,6 @@
 	icon_state = "hair_ziegler"
 	flags = HAIR_TIEABLE
 
-<<<<<<< HEAD
-=======
 /datum/sprite_accessory/hair/astolfo
 	name = "Astolfo"
 	icon = 'icons/mob/human_face_alt.dmi'
@@ -1283,7 +1281,6 @@ shaved
 	gender = NEUTER
 	color_blend_mode = ICON_MULTIPLY
 
->>>>>>> 289dfbd... Merge pull request #7775 from Mechoid/FixBeards
 /*
 ///////////////////////////////////
 /  =---------------------------=  /
@@ -1294,10 +1291,7 @@ shaved
 
 /datum/sprite_accessory/facial_hair
 	icon = 'icons/mob/Human_face.dmi'
-<<<<<<< HEAD
-=======
 	color_blend_mode = ICON_ADD
->>>>>>> 289dfbd... Merge pull request #7775 from Mechoid/FixBeards
 
 /datum/sprite_accessory/facial_hair/shaved
 	name = "Shaved"
